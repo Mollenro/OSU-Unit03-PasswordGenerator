@@ -8,3 +8,5 @@ As the user clicks the "Generate Password" button, the webpage uses javascript t
 If the user does not select a password length within the specified parameters, they will be asked to do so again until they finally chose a valid password length. If the user doesn't select any type of character to be in their password, they will be prompted again for each type of character.
 
 After the user selects their password length and the type of characters contained within, the website will randomly select any available character from the types the user has selected and place it within the password, which is displayed when the length matches the user's specified length.
+
+Here is a link to the deployed application: https://mollenro.github.io/OSU-Unit03-PasswordGenerator/
